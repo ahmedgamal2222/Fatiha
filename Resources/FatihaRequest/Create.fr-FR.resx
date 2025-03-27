@@ -1,0 +1,263 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<!-- 
+		Microsoft ResX Schema
+
+		Version 1.3
+
+		The primary goals of this format is to allow a simple XML format 
+		that is mostly human readable. The generation and parsing of the 
+		various data types are done through the TypeConverter classes 
+		associated with the data types.
+
+		Example:
+
+		... ado.net/XML headers & schema ...
+		<resheader name="resmimetype">text/microsoft-resx</resheader>
+		<resheader name="version">1.3</resheader>
+		<resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+		<resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+		<data name="Name1">this is my long string</data>
+		<data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+		<data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+			[base64 mime encoded serialized .NET Framework object]
+		</data>
+		<data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+			[base64 mime encoded string representing a byte array form of the .NET Framework object]
+		</data>
+
+		There are any number of "resheader" rows that contain simple 
+		name/value pairs.
+
+		Each data row contains a name, and value. The row also contains a 
+		type or mimetype. Type corresponds to a .NET class that support 
+		text/value conversion through the TypeConverter architecture. 
+		Classes that don't support this are serialized and stored with the 
+		mimetype set.
+
+		The mimetype is used for serialized objects, and tells the 
+		ResXResourceReader how to depersist the object. This is currently not 
+		extensible. For a given mimetype the value must be set accordingly:
+
+		Note - application/x-microsoft.net.object.binary.base64 is the format 
+		that the ResXResourceWriter will generate, however the reader can 
+		read any of the formats listed below.
+
+		mimetype: application/x-microsoft.net.object.binary.base64
+		value   : The object must be serialized with 
+			: System.Serialization.Formatters.Binary.BinaryFormatter
+			: and then encoded with base64 encoding.
+
+		mimetype: application/x-microsoft.net.object.soap.base64
+		value   : The object must be serialized with 
+			: System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+			: and then encoded with base64 encoding.
+
+		mimetype: application/x-microsoft.net.object.bytearray.base64
+		value   : The object must be serialized into a byte array 
+			: using a System.ComponentModel.TypeConverter
+			: and then encoded with base64 encoding.
+	-->
+	
+	<xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+		<xsd:element name="root" msdata:IsDataSet="true">
+			<xsd:complexType>
+				<xsd:choice maxOccurs="unbounded">
+					<xsd:element name="data">
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+								<xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+							</xsd:sequence>
+							<xsd:attribute name="name" type="xsd:string" msdata:Ordinal="1" />
+							<xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+							<xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+						</xsd:complexType>
+					</xsd:element>
+					<xsd:element name="resheader">
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+							</xsd:sequence>
+							<xsd:attribute name="name" type="xsd:string" use="required" />
+						</xsd:complexType>
+					</xsd:element>
+				</xsd:choice>
+			</xsd:complexType>
+		</xsd:element>
+	</xsd:schema>
+	<resheader name="resmimetype">
+		<value>text/microsoft-resx</value>
+	</resheader>
+	<resheader name="version">
+		<value>1.3</value>
+	</resheader>
+	<resheader name="reader">
+		<value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.3500.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+	<resheader name="writer">
+		<value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.3500.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+	<data name="Apply For Fatiha Request" xml:space="preserve">
+  <value>Demande de la demande de Fatiha</value>
+</data>
+	<data name="Back to home page" xml:space="preserve">
+  <value>Retour à la page d'accueil</value>
+</data>
+	<data name="Request Letter" xml:space="preserve">
+  <value>Lettre de demande</value>
+</data>
+	<data name="Select a Qerat" xml:space="preserve">
+  <value>Sélectionnez un Qerat</value>
+</data>
+	<data name="Submit" xml:space="preserve">
+  <value>Soumettre</value>
+</data>
+<data name="AlQerat" xml:space="preserve">
+    <value>Récitation</value>
+</data>
+<data name="Apply For Fatiha Request" xml:space="preserve">
+    <value>Demander une Fatiha</value>
+</data>
+<data name="Back to home page" xml:space="preserve">
+    <value>Retour à la page d'accueil</value>
+</data>
+<data name="Request Letter" xml:space="preserve">
+    <value>Lettre de demande</value>
+</data>
+<data name="Select a Qerat" xml:space="preserve">
+    <value>Sélectionner une récitation</value>
+</data>
+<data name="Submit" xml:space="preserve">
+    <value>Soumettre</value>
+</data>
+<data name="Edit AlQerat" xml:space="preserve">
+    <value>Modifier la récitation</value>
+</data>
+<data name="SUCCESS" xml:space="preserve">
+    <value>Succès</value>
+</data>
+<data name="Request Sent Message" xml:space="preserve">
+    <value>Votre demande a été envoyée et sera examinée</value>
+</data>
+<data name="CLOSE" xml:space="preserve">
+    <value>Fermer</value>
+</data>
+<data name="Upload Audio File" xml:space="preserve">
+    <value>Télécharger un fichier audio</value>
+</data>
+<data name="Update AlQerat" xml:space="preserve">
+    <value>Mettre à jour la récitation</value>
+</data>
+<data name="Audio File" xml:space="preserve">
+    <value>Fichier audio</value>
+</data>
+<data name="Create AlQerat" xml:space="preserve">
+    <value>Créer AlQerat</value>
+</data>
+<data name="Create New" xml:space="preserve">
+    <value>Créer nouveau</value>
+</data>
+<data name="Delete" xml:space="preserve">
+    <value>Supprimer</value>
+</data>
+<data name="Alqerats" xml:space="preserve">
+    <value>Alqerats</value>
+</data>
+<data name="NumberOfAlqerats" xml:space="preserve">
+    <value>Nombre de Alqerats</value>
+</data>
+<data name="AuthorizedUsers" xml:space="preserve">
+    <value>Utilisateurs autorisés</value>
+</data>
+<data name="NumberOfAuthorizedUsers" xml:space="preserve">
+    <value>Nombre d'utilisateurs autorisés</value>
+</data>
+<data name="FatihaExam" xml:space="preserve">
+    <value>Examen Fatiha</value>
+</data>
+<data name="NumberOfFatihaExams" xml:space="preserve">
+    <value>Nombre d'examens de Fatiha</value>
+</data>
+<data name="Requests" xml:space="preserve">
+    <value>Requêtes</value>
+</data>
+<data name="NumberOfRequests" xml:space="preserve">
+    <value>Nombre de requêtes</value>
+</data>
+<data name="Create a new account" xml:space="preserve">
+    <value>Créer un nouveau compte</value>
+</data>
+<data name="Email" xml:space="preserve">
+    <value>Email</value>
+</data>
+<data name="Password" xml:space="preserve">
+    <value>Mot de passe</value>
+</data>
+<data name="Use another service to register" xml:space="preserve">
+    <value>Utiliser un autre service pour s'inscrire</value>
+</data>
+<data name="ConfirmPassword" xml:space="preserve">
+    <value>Confirmer le mot de passe</value>
+</data>
+<data name="You have successfully logged out of the application." xml:space="preserve">
+    <value>Vous vous êtes déconnecté avec succès de l'application.</value>
+</data>
+<data name="Click here to Logout" xml:space="preserve">
+    <value>Cliquez ici pour vous déconnecter</value>
+</data>
+<data name="Use a local account to log in." xml:space="preserve">
+    <value>Utiliser un compte local pour se connecter.</value>
+</data>
+<data name="Remember me?" xml:space="preserve">
+    <value>Se souvenir de moi ?</value>
+</data>
+<data name="Use another service to log in." xml:space="preserve">
+    <value>Utiliser un autre service pour se connecter.</value>
+</data>
+<data name="AboutExternalAuth" xml:space="preserve">
+    <value>À propos de la configuration de cette application ASP.NET pour prendre en charge la connexion via des services externes. Aucun service d'authentification externe n'est configuré. Voir cet article pour plus de détails.</value>
+</data>
+<data name="There are no external authentication services configured. See this article for details:" xml:space="preserve">
+    <value>Aucun service d'authentification externe n'est configuré. Voir cet article pour plus de détails :</value>
+</data>
+<data name="about setting up this ASP.NET application to support logging in via external services." xml:space="preserve">
+    <value>sur la configuration de cette application ASP.NET pour prendre en charge la connexion via des services externes.</value>
+</data>
+<data name="Register as a new user" xml:space="preserve">
+    <value>S'inscrire comme nouvel utilisateur</value>
+</data>
+<data name="Press Ctrl (on Windows) or Cmd (on Mac) and hold it, then click on the languages you speak from the list. You can remove a language by clicking on it again." xml:space="preserve">
+    <value>Maintenez la touche Ctrl (sur Windows) ou Cmd (sur Mac) enfoncée, puis cliquez sur les langues que vous parlez dans la liste. Vous pouvez supprimer une langue en cliquant à nouveau dessus.</value>
+  </data>
+  <data name="You already have an outgoing request for this Qerat. Please change the Qerat name." xml:space="preserve">
+    <value>ERREUR : Vous avez déjà une demande sortante pour cette Qerat. Veuillez changer le nom de Qerat.</value>
+  </data>
+  <data name="Login to Apply for Fatiha" xml:space="preserve">
+    <value>Connectez-vous pour postuler au profil Fatiha</value>
+  </data>
+  <data name="Your request has been successfully submitted! Data is currently under review." xml:space="preserve">
+    <value>Votre demande a été soumise avec succès ! Les données sont en cours de révision.</value>
+  </data>
+  <data name="Error updating request" xml:space="preserve">
+    <value>Erreur lors de la mise à jour de la demande</value>
+  </data>
+  <data name="FAILED TO LOAD AUDIO" xml:space="preserve">
+    <value>Échec du chargement de l'audio</value>
+  </data>
+  <data name="PLEASE SELECT QERAT" xml:space="preserve">
+    <value>Veuillez sélectionner Qerat</value>
+  </data>
+  <data name="PLEASE ENTER REQUEST LETTER" xml:space="preserve">
+    <value>Veuillez entrer la lettre de demande</value>
+  </data>
+  <data name="profile" xml:space="preserve">
+    <value>Profil</value>
+</data>
+<data name="Congratulations! You have been awarded the Honor Medal for your remarkable achievement in Surah Al-Fatihah 🎖️" xml:space="preserve">
+    <value>Félicitations ! Vous avez reçu la Médaille d'honneur pour votre remarquable réalisation dans la sourate Al-Fatihah 🎖️</value>
+</data>
+<data name="🎉 Congratulations! You are now an instructor. You can accept requests." xml:space="preserve">
+    <value>🎉 Félicitations ! Vous êtes maintenant instructeur. Vous pouvez accepter des demandes.</value>
+</data>
+</root>

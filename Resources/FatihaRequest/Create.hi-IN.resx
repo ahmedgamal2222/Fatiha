@@ -1,0 +1,264 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<!-- 
+		Microsoft ResX Schema
+
+		Version 1.3
+
+		The primary goals of this format is to allow a simple XML format 
+		that is mostly human readable. The generation and parsing of the 
+		various data types are done through the TypeConverter classes 
+		associated with the data types.
+
+		Example:
+
+		... ado.net/XML headers & schema ...
+		<resheader name="resmimetype">text/microsoft-resx</resheader>
+		<resheader name="version">1.3</resheader>
+		<resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+		<resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+		<data name="Name1">this is my long string</data>
+		<data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+		<data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+			[base64 mime encoded serialized .NET Framework object]
+		</data>
+		<data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+			[base64 mime encoded string representing a byte array form of the .NET Framework object]
+		</data>
+
+		There are any number of "resheader" rows that contain simple 
+		name/value pairs.
+
+		Each data row contains a name, and value. The row also contains a 
+		type or mimetype. Type corresponds to a .NET class that support 
+		text/value conversion through the TypeConverter architecture. 
+		Classes that don't support this are serialized and stored with the 
+		mimetype set.
+
+		The mimetype is used for serialized objects, and tells the 
+		ResXResourceReader how to depersist the object. This is currently not 
+		extensible. For a given mimetype the value must be set accordingly:
+
+		Note - application/x-microsoft.net.object.binary.base64 is the format 
+		that the ResXResourceWriter will generate, however the reader can 
+		read any of the formats listed below.
+
+		mimetype: application/x-microsoft.net.object.binary.base64
+		value   : The object must be serialized with 
+			: System.Serialization.Formatters.Binary.BinaryFormatter
+			: and then encoded with base64 encoding.
+
+		mimetype: application/x-microsoft.net.object.soap.base64
+		value   : The object must be serialized with 
+			: System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+			: and then encoded with base64 encoding.
+
+		mimetype: application/x-microsoft.net.object.bytearray.base64
+		value   : The object must be serialized into a byte array 
+			: using a System.ComponentModel.TypeConverter
+			: and then encoded with base64 encoding.
+	-->
+	
+	<xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+		<xsd:element name="root" msdata:IsDataSet="true">
+			<xsd:complexType>
+				<xsd:choice maxOccurs="unbounded">
+					<xsd:element name="data">
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+								<xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+							</xsd:sequence>
+							<xsd:attribute name="name" type="xsd:string" msdata:Ordinal="1" />
+							<xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+							<xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+						</xsd:complexType>
+					</xsd:element>
+					<xsd:element name="resheader">
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+							</xsd:sequence>
+							<xsd:attribute name="name" type="xsd:string" use="required" />
+						</xsd:complexType>
+					</xsd:element>
+				</xsd:choice>
+			</xsd:complexType>
+		</xsd:element>
+	</xsd:schema>
+	<resheader name="resmimetype">
+		<value>text/microsoft-resx</value>
+	</resheader>
+	<resheader name="version">
+		<value>1.3</value>
+	</resheader>
+	<resheader name="reader">
+		<value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.3500.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+	<resheader name="writer">
+		<value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.3500.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+	<data name="Apply For Fatiha Request" xml:space="preserve">
+  <value>Fatiha अनुरोध करें</value>
+</data>
+	<data name="Back to home page" xml:space="preserve">
+  <value>होम पेज पर वापस जाएं</value>
+</data>
+	<data name="Request Letter" xml:space="preserve">
+  <value>अनुरोध पत्र</value>
+</data>
+	<data name="Select a Qerat" xml:space="preserve">
+  <value>एक किरात चुनें</value>
+</data>
+	<data name="Submit" xml:space="preserve">
+  <value>प्रस्तुत करें</value>
+</data>
+<data name="AlQerat" xml:space="preserve">
+    <value>क़िरात</value>
+</data>
+<data name="Apply For Fatiha Request" xml:space="preserve">
+    <value>फातिहा अनुरोध के लिए आवेदन करें</value>
+</data>
+<data name="Back to home page" xml:space="preserve">
+    <value>होम पेज पर वापस जाएं</value>
+</data>
+<data name="Request Letter" xml:space="preserve">
+    <value>अनुरोध पत्र</value>
+</data>
+<data name="Select a Qerat" xml:space="preserve">
+    <value>क़िरात चुनें</value>
+</data>
+<data name="Submit" xml:space="preserve">
+    <value>प्रस्तुत करें</value>
+</data>
+<data name="Edit AlQerat" xml:space="preserve">
+    <value>क़िरात संपादित करें</value>
+</data>
+<data name="SUCCESS" xml:space="preserve">
+    <value>सफलता</value>
+</data>
+<data name="Request Sent Message" xml:space="preserve">
+    <value>आपका अनुरोध भेजा गया है और इसकी समीक्षा की जाएगी</value>
+</data>
+<data name="CLOSE" xml:space="preserve">
+    <value>बंद करें</value>
+</data>
+<data name="Upload Audio File" xml:space="preserve">
+    <value>ऑडियो फ़ाइल अपलोड करें</value>
+</data>
+<data name="Update AlQerat" xml:space="preserve">
+    <value>क़िरात अपडेट करें</value>
+</data>
+<data name="Audio File" xml:space="preserve">
+    <value>ऑडियो फ़ाइल</value>
+</data>
+<data name="Create AlQerat" xml:space="preserve">
+    <value>अलक़ेरात बनाएँ</value>
+</data>
+<data name="Create New" xml:space="preserve">
+    <value>नया बनाएँ</value>
+</data>
+<data name="Delete" xml:space="preserve">
+    <value>हटाएँ</value>
+</data>
+<data name="Alqerats" xml:space="preserve">
+    <value>पठन</value>
+</data>
+<data name="NumberOfAlqerats" xml:space="preserve">
+    <value>पठन की संख्या</value>
+</data>
+<data name="AuthorizedUsers" xml:space="preserve">
+    <value>अधिकृत उपयोगकर्ता</value>
+</data>
+<data name="NumberOfAuthorizedUsers" xml:space="preserve">
+    <value>अधिकृत उपयोगकर्ताओं की संख्या</value>
+</data>
+<data name="FatihaExam" xml:space="preserve">
+    <value>फातिहा परीक्षा</value>
+</data>
+<data name="NumberOfFatihaExams" xml:space="preserve">
+    <value>फातिहा परीक्षाओं की संख्या</value>
+</data>
+<data name="Requests" xml:space="preserve">
+    <value>अनुरोध</value>
+</data>
+<data name="NumberOfRequests" xml:space="preserve">
+    <value>अनुरोधों की संख्या</value>
+</data>
+<data name="Create a new account" xml:space="preserve">
+    <value>नया खाता बनाएं</value>
+</data>
+<data name="Email" xml:space="preserve">
+    <value>ईमेल</value>
+</data>
+<data name="Password" xml:space="preserve">
+    <value>पासवर्ड</value>
+</data>
+<data name="Use another service to register" xml:space="preserve">
+    <value>पंजीकरण के लिए किसी अन्य सेवा का उपयोग करें</value>
+</data>
+<data name="ConfirmPassword" xml:space="preserve">
+    <value>पासवर्ड की पुष्टि करें</value>
+</data>
+<data name="You have successfully logged out of the application." xml:space="preserve">
+    <value>आपने एप्लिकेशन से सफलतापूर्वक लॉग आउट कर लिया है।</value>
+</data>
+<data name="Click here to Logout" xml:space="preserve">
+    <value>लॉगआउट करने के लिए यहां क्लिक करें</value>
+</data>
+<data name="Use a local account to log in." xml:space="preserve">
+    <value>लॉगिन करने के लिए एक स्थानीय खाता का उपयोग करें।</value>
+</data>
+<data name="Remember me?" xml:space="preserve">
+    <value>मुझे याद रखें?</value>
+</data>
+<data name="Use another service to log in." xml:space="preserve">
+    <value>लॉगिन करने के लिए किसी अन्य सेवा का उपयोग करें।</value>
+</data>
+<data name="AboutExternalAuth" xml:space="preserve">
+    <value>इस ASP.NET एप्लिकेशन को बाहरी सेवाओं के माध्यम से लॉगिन करने के लिए सेटअप करने के बारे में। कोई बाहरी प्रमाणीकरण सेवाएं कॉन्फ़िगर नहीं की गई हैं। विवरण के लिए इस लेख को देखें।</value>
+</data>
+<data name="There are no external authentication services configured. See this article for details:" xml:space="preserve">
+    <value>कोई बाहरी प्रमाणीकरण सेवाएं कॉन्फ़िगर नहीं की गई हैं। विवरण के लिए इस लेख को देखें:</value>
+</data>
+<data name="about setting up this ASP.NET application to support logging in via external services." xml:space="preserve">
+    <value>इस ASP.NET एप्लिकेशन को बाहरी सेवाओं के माध्यम से लॉगिन करने के लिए सेटअप करने के बारे में।</value>
+</data>
+<data name="Register as a new user" xml:space="preserve">
+    <value>नए उपयोगकर्ता के रूप में पंजीकरण करें</value>
+</data>
+  <data name="Press Ctrl (on Windows) or Cmd (on Mac) and hold it, then click on the languages you speak from the list. You can remove a language by clicking on it again." xml:space="preserve">
+    <value>Ctrl (Windows पर) या Cmd (Mac पर) दबाएं और होल्ड करें, फिर सूची से आपके द्वारा बोली जाने वाली भाषाओं पर क्लिक करें। आप किसी भाषा को फिर से क्लिक करके हटा सकते हैं।</value>
+  </data>
+  <data name="You already have an outgoing request for this Qerat. Please change the Qerat name." xml:space="preserve">
+    <value>त्रुटि: आपके पास पहले से ही इस क़िरात के लिए एक आउटगोइंग अनुरोध है। कृपया क़िरात का नाम बदलें।</value>
+  </data>
+  <data name="Login to Apply for Fatiha" xml:space="preserve">
+    <value>फातिहा प्रोफाइल के लिए आवेदन करने के लिए लॉगिन करें</value>
+  </data>
+  <data name="Your request has been successfully submitted! Data is currently under review." xml:space="preserve">
+    <value>आपका अनुरोध सफलतापूर्वक जमा कर दिया गया है! डेटा की समीक्षा की जा रही है।</value>
+  </data>
+  <data name="Error updating request" xml:space="preserve">
+    <value>अनुरोध अपडेट करने में त्रुटि</value>
+  </data>
+  <data name="FAILED TO LOAD AUDIO" xml:space="preserve">
+    <value>ऑडियो लोड करने में विफल</value>
+  </data>
+  <data name="PLEASE SELECT QERAT" xml:space="preserve">
+    <value>कृपया क़िरात चुनें</value>
+  </data>
+  <data name="PLEASE ENTER REQUEST LETTER" xml:space="preserve">
+    <value>कृपया अनुरोध पत्र दर्ज करें</value>
+  </data>
+  <data name="profile" xml:space="preserve">
+    <value>प्रोफ़ाइल</value>
+</data>
+<data name="Congratulations! You have been awarded the Honor Medal for your remarkable achievement in Surah Al-Fatihah 🎖️" xml:space="preserve">
+    <value>बधाई हो! सूरह अल-फातिहा में आपकी उल्लेखनीय उपलब्धि के लिए आपको सम्मान पदक से सम्मानित किया गया है 🎖️</value>
+</data>
+<data name="🎉 Congratulations! You are now an instructor. You can accept requests." xml:space="preserve">
+    <value>🎉 बधाई हो! अब आप एक प्रशिक्षक हैं। आप अनुरोध स्वीकार कर सकते हैं।</value>
+</data>
+
+</root>

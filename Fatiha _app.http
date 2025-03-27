@@ -1,0 +1,4 @@
+@Fatiha_HostAddress = https://api.fatiha.id
+
+GET {{Fatiha_HostAddress}}/weatherforecast/
+Accept: application/json

@@ -1,0 +1,201 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="About Fatiha.ID Platform" xml:space="preserve">
+    <value>फातिहा.आईडी प्लेटफ़ॉर्म के बारे में</value>
+  </data>
+  <data name="Absolutely. Fatiha.ID is designed to be accessible and inclusive to individuals of all ages, backgrounds, and abilities. It welcomes anyone who wishes to deepen their understanding of Surat Al-Fatiha, regardless of their prior knowledge or experience." xml:space="preserve">
+    <value>बिल्कुल. फातिहा.आईडी का डिज़ाइन तमाम उम्र, पृष्ठभूमि और क्षमताओं के व्यक्तियों के लिए पहुँचने और समावेशी बनाने के लिए किया गया है। यह उन्हें स्वरत अल-फातिहा के गहरे ज्ञान को बढ़ाने की इच्छा रखने वाले हर किसी का स्वागत करता है, उनके पूर्व ज्ञान या अनुभव के बावजूद।</value>
+  </data>
+  <data name="Are the resources on Fatiha.ID available in multiple languages?" xml:space="preserve">
+    <value>क्या फातिहा.आईडी पर संसाधन एक से अधिक भाषा में उपलब्ध हैं?</value>
+  </data>
+  <data name="Certificates" xml:space="preserve">
+    <value>प्रमाणपत्र</value>
+  </data>
+  <data name="Fatiha. All Rights Reserved." xml:space="preserve">
+    <value>फातिहा. सर्वाधिकार सुरक्षित हैं।</value>
+  </data>
+  <data name="Fatiha.ID is a digital platform designed to promote a deep connection with Surat Al-Fatiha, a revered chapter of the Quran. Its primary goal is to empower and educate individuals worldwide, enabling them to accurately recite Surat Al-Fatiha, understand its profound meaning, and receive unique identification and certification." xml:space="preserve">
+    <value>फातिहा.आईडी एक डिजिटल प्लेटफ़ॉर्म है जिसका उद्देश्य सुरत अल-फातिहा के साथ एक गहरा संबंध बढ़ाने को प्रोत्साहित करना है, कुरान के एक पूज्य अध्याय के साथ। इसका प्रमुख उद्देश्य व्यक्तियों को वैश्विक रूप से सटीक रूप से सुरत अल-फातिहा का पाठ करने, इसके गहरे अर्थ को समझने और विशेष पहचान और प्रमाणपत्र प्राप्त करने की शक्ति देना है।</value>
+  </data>
+  <data name="Freequently Ask Questions" xml:space="preserve">
+    <value>"आवाजना पूछे जाने वाले प्रश्न"</value>
+  </data>
+  <data name="Get your Al-Fatiha Badge according to one of the Ten Qiraat." xml:space="preserve">
+    <value>दस किरात में से एक के अनुसार अपनी अल-फातिहा बैज प्राप्त करें।</value>
+  </data>
+  <data name="How can I participate in the Fatiha.ID project?" xml:space="preserve">
+    <value>मैं फातिहा.आईडी परियोजना में कैसे भाग ले सकता हूँ?</value>
+  </data>
+  <data name="Instructors" xml:space="preserve">
+    <value>प्रशिक्षक</value>
+  </data>
+  <data name="Is Fatiha.ID accessible to people of all ages and backgrounds?" xml:space="preserve">
+    <value>क्या फातिहा.आईडी सभी आयु और पृष्ठभूमियों के लोगों के लिए पहुँचे हुए है?</value>
+  </data>
+  <data name="Languages" xml:space="preserve">
+    <value>भाषाएँ</value>
+  </data>
+  <data name="Learn More" xml:space="preserve">
+    <value>और अधिक जानें</value>
+  </data>
+  <data name="Members" xml:space="preserve">
+    <value>सदस्य</value>
+  </data>
+  <data name="Mission:To empower one million people worldwide to recite Surat Al-Fatiha accurately, comprehend its profound meaning, and provide each successful participant with a unique ID and a certification." xml:space="preserve">
+    <value>मिशन: दुनियाभर में एक मिलियन लोगों को सुरत अल-फातिहा को सटीक रूप से पढ़ने, इसके गहरे अर्थ को समझने और प्रत्येक सफल प्रतिभागी को एक अद्वितीय आईडी और प्रमाणपत्र प्रदान करने के लिए सशक्त करना।</value>
+  </data>
+  <data name="Our certified instructors are available 24/7 to help you recite, understand, and certify you with Surat Al-Fatiha." xml:space="preserve">
+    <value>हमारे प्रमाणित प्रशिक्षक सुरत अल-फातिहा के साथ आपकी पठन, समझने और प्रमाणित करने में आपकी सहायता के लिए 24/7 उपलब्ध हैं।</value>
+  </data>
+  <data name="Slogan:'Fatiha.ID: Your Gateway to Quranic Mastery.'" xml:space="preserve">
+    <value>नारा: 'फातिहा.आईडी: कुरान की मास्टरी का आपका द्वार।'</value>
+  </data>
+  <data name="The unique identification and certification acknowledge your dedication and accomplishment in mastering the recitation and comprehension of Surat Al-Fatiha. It serves as a symbol of your commitment to this important Surah and your spiritual growth." xml:space="preserve">
+    <value>अद्वितीय पहचान और प्रमाणपत्र आपके सुरत अल-फातिहा के पठन और समझ को मास्टर करने में आपकी समर्पण और उपलब्धि को मान्यता देते हैं। यह आपके इस महत्वपूर्ण सूरह और आपके आध्यात्मिक विकास के प्रति आपकी समर्पण का प्रतीक के रूप में कार्य करता है।</value>
+  </data>
+  <data name="To participate, you can visit the Fatiha.ID website, create an account, and access the educational resources and apply for certification. You can also join as an instructor to help process requests using the Ten Qiraat." xml:space="preserve">
+    <value>भाग लेने के लिए, आप फातिहा.आईडी वेबसाइट पर जा सकते हैं, एक खाता बना सकते हैं, और शैक्षिक संसाधनों तक पहुँच सकते हैं और प्रमाणपत्र के लिए आवेदन कर सकते हैं। आप दस किरात का उपयोग करके अनुरोधों को प्रसंस्कृत करने में मदद करने के रूप में भी शामिल हो सकते हैं।</value>
+  </data>
+  <data name="Toll-free no :" xml:space="preserve">
+    <value>टोल-फ्री नंबर:</value>
+  </data>
+  <data name="Values:Inclusivity, Education, Empowerment, Community, Precision, Certification." xml:space="preserve">
+    <value>मूल्य: समावेशन, शिक्षा, सशक्तिकरण, समुदाय, परिश्रम, प्रमाणपत्र।</value>
+  </data>
+  <data name="Vision:To foster a global community of individuals who have mastered the recitation and understanding of Surat Al-Fatiha, a fundamental chapter of the Quran." xml:space="preserve">
+    <value>दृष्टि: कुरान के मौलिक अध्याय सुरत अल-फातिहा के पठन और समझ को मास्टर करने वाले व्यक्तियों की वैश्विक समुदाय को प्रोत्साहित करना।</value>
+  </data>
+  <data name="What is Fatiha.ID, and what does it aim to achieve?" xml:space="preserve">
+    <value>फातिहा.आईडी क्या है, और यह क्या प्राप्त करने का लक्ष्य है?</value>
+  </data>
+  <data name="What is the significance of the unique identification and certification offered by Fatiha.ID?" xml:space="preserve">
+    <value>फातिहा.आईडी द्वारा प्रदान की गई अद्वितीय पहचान और प्रमाणपत्र का महत्व क्या है?</value>
+  </data>
+  <data name="Yes, Fatiha.ID is committed to inclusivity and provides content and support in multiple languages (currently Arabic, English, Mandarin Chinese, Spanish, Hindi, French, Russian, Bengali, Portuguese, Urdu and Indonesian). This ensures that individuals from diverse linguistic backgrounds can access and benefit from the platform's resources. You must recite Surat Al-Fatiha in the Arabic language." xml:space="preserve">
+    <value>हां, फातिहा.आईडी समावेशन के प्रति समर्पित है और कई भाषाओं में सामग्री और समर्थन प्रदान करता है (वर्तमान में अरबी, अंग्रेजी, मैंडरिन चीनी, स्पेनिश, हिंदी, फ्रेंच, रूसी, बंगाली, पुर्तगाली, उर्दू और इंडोनेशियाई)। इससे सुनी हुई भाषाओं के विभिन्न पृष्ठभूमियों के व्यक्तियों को प्लेटफ़ॉर्म के संसाधनों तक पहुँचने और उनका लाभ उठाने की सुनिश्चित होता है। आपको अरबी भाषा में सुरत अल-फातिहा का पाठ करना होगा।</value>
+  </data>
+  <data name="Frequently Ask Questions" xml:space="preserve">
+    <value>अक्सर पूछे जाने वाले प्रश्न</value>
+  </data>
+  <data name="Apply for Fatiha" xml:space="preserve">
+    <value>फातिहा के लिए आवेदन करें (Fatiha)</value>
+  </data>
+</root>

@@ -1,0 +1,49 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+	<PropertyGroup>
+<TargetFramework>net8.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+	</PropertyGroup>
+	<PropertyGroup>
+		<GenerateDocumentationFile>true</GenerateDocumentationFile>
+		<NoWarn>1591</NoWarn>
+	</PropertyGroup>
+	<ItemGroup>
+	  <Content Include="Controllers\Cert.jpeg" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<PackageReference Include="FirebaseAdmin" Version="3.1.0" />
+		<PackageReference Include="itext7" Version="9.1.0" />
+		<PackageReference Include="Microsoft.AspNetCore" Version="2.3.0" />
+		<PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="6.0.0" />
+		<PackageReference Include="ResxToJson" Version="2.2.0" />
+		<PackageReference Include="SendGrid" Version="9.29.3" />
+		<PackageReference Include="Swashbuckle.AspNetCore" Version="7.2.0" />
+		<PackageReference Include="AWSSDK.S3" Version="3.7.415" />
+		<!-- تمت إزالة Microsoft.AspNetCore.Mvc 2.2.0 -->
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="6.0.0" />
+				<PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="8.0.13" />
+		<PackageReference Include="Microsoft.CodeAnalysis.Common" Version="4.8.0" />
+		<PackageReference Include="Microsoft.Data.SqlClient" Version="6.0.1" />
+		<!-- تمت إزالة Microsoft.AspNetCore.Localization 2.3.0 -->
+		<PackageReference Include="Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore" Version="8.0.13" />
+    <PackageReference Include="BouncyCastle.NetCore" Version="1.9.0" />
+
+		<PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.13" />
+		
+		<PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.13" />
+		<PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.13">
+			<PrivateAssets>all</PrivateAssets>
+			<IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+		</PackageReference>
+		<PackageReference Include="Microsoft.Extensions.Localization" Version="8.0.13" />
+		<PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="8.0.7" />
+		<PackageReference Include="Swashbuckle.AspNetCore.Annotations" Version="7.2.0" />
+		<PackageReference Include="Swashbuckle.AspNetCore.Filters" Version="8.0.2" />
+		<PackageReference Include="Swashbuckle.AspNetCore.Newtonsoft" Version="7.2.0" />
+		<PackageReference Include="System.Resources.Extensions" Version="9.0.2" />
+		<PackageReference Include="System.Resources.Reader" Version="4.3.0" />
+	</ItemGroup>
+
+</Project>
